@@ -81,7 +81,4 @@ const ButtonHandler = (props: Props) => {
   );
 };
 
-
-// TODO: Continue Rorinna Ai
-
 export default ButtonHandler;
